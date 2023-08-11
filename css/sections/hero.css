@@ -1,6 +1,6 @@
 .hero {
     display: flex;
-    min-height: calc(100vh - 74px);
+    min-height: calc(100vh - 72px);
     overflow: hidden;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .hero-content {
-    flex: 1.221;
+    flex: 1.220;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
