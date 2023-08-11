@@ -1,6 +1,7 @@
 {
   "name": "javascript_sushi_website",
-  "private": true,
+  "homepage": "https://sommos.github.io/javascript_sushi_website",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

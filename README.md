@@ -2,7 +2,9 @@
 
 This program builds a responsive, animated website for a sushi restaurant in HTML, CSS & JavaScript.
 
-This has been built into a web application accessible here: https://sommos.github.io/javascript_sushi_website/
+This has been built into a web application accessible here: https://sommos.github.io/javascript_sushi_website
+
+This has also been built into a Flutter app, version is accessible here: https://github.com/Sommos/flutter_sushi_restaurant
 
 # Contribution
 
