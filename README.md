@@ -1,9 +1,11 @@
 # Javascript Sushi Website
 
 <p align="center">
-    <img src="image_0.png" width="800" />
+    <img src="image_0.png" width="400" />
+    <img src="image_3.png" width="400" />
     <img src="image_1.png" width="400" height="125" />
     <img src="image_2.png" width="400" height="125" />
+    <img src="image_4.png" width="400" height="125" />
 </p>
 
 This program builds a responsive, animated website for a sushi restaurant in HTML, CSS & JavaScript.
