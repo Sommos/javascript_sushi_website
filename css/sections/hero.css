@@ -113,7 +113,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    background: var(--color-white);
+    background: var(--color-creamson);
 }
 
 .hero-content__customer {
